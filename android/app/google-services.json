@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782348514985",
+    "firebase_url": "https://first-project-f1c0b-default-rtdb.firebaseio.com",
+    "project_id": "first-project-f1c0b",
+    "storage_bucket": "first-project-f1c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782348514985:android:2575b6a2bdc34f9a1f9bb8",
+        "android_client_info": {
+          "package_name": "cat3.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOx2iVPjI5Qh2hKqOEZnvuxkH4FIPePQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
